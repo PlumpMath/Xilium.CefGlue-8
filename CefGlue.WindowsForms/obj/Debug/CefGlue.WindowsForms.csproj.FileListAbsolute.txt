@@ -1,0 +1,9 @@
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.pdb
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+C:\Users\Wong\Downloads\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
+D:\Demo\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.dll
+D:\Demo\Xilium.CefGlue\Bin\Xilium.CefGlue.WindowsForms.pdb
+D:\Demo\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+D:\Demo\Xilium.CefGlue\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb

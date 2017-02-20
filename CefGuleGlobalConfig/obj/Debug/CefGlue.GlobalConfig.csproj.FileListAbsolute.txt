@@ -1,0 +1,4 @@
+D:\Demo\Xilium.CefGlue\Bin\CefGlue.GlobalConfig.dll
+D:\Demo\Xilium.CefGlue\Bin\CefGlue.GlobalConfig.pdb
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\obj\Debug\CefGlue.GlobalConfig.dll
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\obj\Debug\CefGlue.GlobalConfig.pdb

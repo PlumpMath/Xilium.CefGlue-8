@@ -1,0 +1,10 @@
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\bin\Debug\CefGuleGlobalConfig.dll
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\bin\Debug\CefGuleGlobalConfig.pdb
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\bin\Debug\System.Net.Http.dll
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\bin\Debug\System.Net.Http.xml
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\Demo\Xilium.CefGlue\Bin\Xilium.CefGule.GlobalConfig.dll
+D:\Demo\Xilium.CefGlue\Bin\Xilium.CefGule.GlobalConfig.pdb
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\obj\Debug\CefGule.GlobalConfig.csprojResolveAssemblyReference.cache
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\obj\Debug\Xilium.CefGule.GlobalConfig.dll
+D:\Demo\Xilium.CefGlue\CefGuleGlobalConfig\obj\Debug\Xilium.CefGule.GlobalConfig.pdb
